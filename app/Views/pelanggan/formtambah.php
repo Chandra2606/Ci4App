@@ -35,7 +35,7 @@
                         <button type="submit" class="btn btn-success" id="tombolSimpan">
                             <i class="fas fa-save"></i> SIMPAN
                         </button>
-                        <a class="btn btn-secondary" href="<?= base_url() ?>/pelanggan">Kembali</a>
+                        <a class="btn btn-secondary" href="<?= base_url() ?>pelanggan">Kembali</a>
                     </div>
                 </div>
                 <?= form_close() ?>
